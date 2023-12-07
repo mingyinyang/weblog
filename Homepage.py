@@ -1,4 +1,3 @@
-from asyncio import _enter_task
 from PIL import Image
 import requests
 

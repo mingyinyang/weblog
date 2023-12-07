@@ -60,7 +60,7 @@ with image_column:
 
 with text_column:
 
-    st.write("These are my friends back in Dinagat Islands. They're names are Jingky, Krisa Mae and Christian, they've been my support and helped me both emotionally and physically during my senior high years ")
+    st.write("These are my friends back in Dinagat Islands. Their names are Jingky, Krisa Mae and Christian, they've been my support and helped me both emotionally and physically during my senior high years ")
 
     # --- LOAD ASSETS ---
 #lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20 fcfjwiyb.json")
